@@ -12,4 +12,5 @@ git remote origine <url-адрес репозитория>
 
 
 git pull
+
 git push
